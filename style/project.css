@@ -9,14 +9,23 @@ body {
 }
 
 .abdal .container {
-    max-width: 1200px;
+
+    width: 100vw !important;
+
     margin: 0 auto;
+
     padding: 20px;
+
     display: flex;
+
     flex-wrap: wrap;
+
     display: block;
+
     justify-content: space-between;
-    
+
+   
+
 }
 
 .abdal ul {
